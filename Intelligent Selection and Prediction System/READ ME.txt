@@ -1,0 +1,23 @@
+As described in preview update documents provided throughout the class, the algorithm has been developed in a simplistic manner providing all the 
+described functionality without convoluted processes. Furthermore, this algorithm is straightforward to use. 
+
+Instructions are provided as part of the selection process and included in this note file.
+
+
+The Instructions goes as follows:
+
+1. Information & Instructions - Briefly describe how the model works.
+2. View Candidates Data - Provide a list of the candidates' data before conversion.
+3. Generate Candidates Dataset - Creates a CSV dataset to convert into a tensor.
+4. Generate a Tensor Dataset - Creates a tensor dataset from the CSV dataset. 
+5. Train the TensorFlow Model - Pass the tensor dataset to train the model.
+6. Generate and view plot graph - Generates an accuracy/loss plot graph.
+7. Generate Prediction Results - Generates the candidates' prediction results.
+8. Quit - Exit the model.
+
+All the interaction is accomplished by answering yes or no and selecting one of the options ranging from 1 to 8.
+
+NOTE: The model is pre-trained, you will notice at the beginning of the execution, but by selecting option number 5, the model gets re-trained; the model can be trained many times over.
+NOTE2: There two python files "Expert Front end" and "NN_Engine", just run the "Expert Front_end", the "NN_Engine" is the back-end and has been imported as a libraty.
+
+Have Fun and Enjoy!
