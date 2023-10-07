@@ -1,0 +1,1 @@
+The objectives in this project is to evaluate a TensorFlow model using the MNIST dataset. Metric data of the operation, accuracy, and optimization performance are benchmark to guage how hyperparameter changes could affect the model's overall performance.
