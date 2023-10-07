@@ -1,0 +1,11 @@
+This project uses the folowing libraries:
+
+1. TensorFlow
+2. Pandas
+3. Numpy
+4. Matplotlib.pyplot
+5. Sklearn 
+6. and the Keras API.
+
+The main goal of this project was to create a dataset, preprocess the dataset, and measure the accuracy of a simple 
+sequential neural network.
