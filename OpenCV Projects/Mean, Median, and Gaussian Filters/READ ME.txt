@@ -1,0 +1,1 @@
+The purpose of this project was to utiliz the OpenCV python library to apply Mean, Median, and Gaussian Filters to manipulate an image.

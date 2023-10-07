@@ -1,0 +1,2 @@
+#The Algorithm uses the source images to produce the rest of the image datasets while iterating throughout the same.
+#Just run it and click through each image. Each image will be generated and written to the same directory as the source code.

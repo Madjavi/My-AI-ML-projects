@@ -1,0 +1,3 @@
+License Plate and Faked Content Detection:
+
+The objective in this project is to develop an algorithm capable of detecting Russian license plates. Once the plates were detected, character recognition algorithm will detects and extract the plates with their respective characters. 

@@ -1,0 +1,1 @@
+In this project different OpenCV techniques are employed in order to thoroughly analyze a fingerprint image.

@@ -1,0 +1,5 @@
+In this project Adaptive thresholding is employed using the OpenCV library to apply small regional calculation to an image.
+
+the goal is to study how adaptive thresholding automatically calculates or adjust the shadow and lighting at a grayscale. Two adaptive thresholding techniques have been employed in the project; 
+
+1. Adaptive_Thresh_Mean_C, which calculates the threshold by taking the mean of the pixel values in the neighborhood area. 2. Adaptive_Thresh_Gaussian_C, which calculates the threshold by taking the weighted sum of the pixel values in the neighborhood area which uses the gaussian window technique. 
