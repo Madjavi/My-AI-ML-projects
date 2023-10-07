@@ -1,0 +1,12 @@
+***********************************************************************************************************************************
+*                                                                                                                                 *
+* 1. When executing the code it will ask to enter the Altitude and the Distance which is equal to height and width in a 2D grid.  *
+*   NOTE: A grid number higher than 6 x 6 will take longer to calculate due to the code have not been optimized.                  *
+*                                                                                                                                 *
+* 2. When entering the waypoint numbers make sure not to go higher than 7 otherwise it will take longer to calculate as well.     *
+*                                                                                                                                 *
+* 3. To ensure a stable operation enter the following numbers: Altitude = 5, Distance = 5, and number of waypoints = 4.           *
+*                                                                                                                                 *
+* 4. The rest of the operations is self-explanatory.                                                                              *
+*                                                                                                                                 *
+*******Have a Happy Simulation!****************************************************************************************************
