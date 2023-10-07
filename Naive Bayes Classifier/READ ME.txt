@@ -1,0 +1,20 @@
+Module 6: Critical Thinking
+
+The instruction are as follows:
+
+Option #1: Naive Bayes Classifier
+
+1. Gaussian Naive Bayes Prediction & accuracy
+2. Multinomial Naive Bayes Prediction & accuracy
+3. Posterior probability by converting the dataset into a frequency table.
+4. Likelihood table w/ relevant probabilities
+5. Probability errors correction w/ Laplacian correction
+6. Quit
+
+Enter Option: 
+
+
+Just select one of the options to perform one of the functions per the assignment istructions.
+
+NOTE: This is a simple  Naive Bayes classifier that uses the load_brest_cancer dataset from https://scikit-learn.org/stable/datasets/toy_dataset.html
+
